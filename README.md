@@ -13,4 +13,4 @@ The site is a lightweight static build using HTML, CSS and JavaScript. It is des
 
 ## Deployment
 
-GitHub Pages can publish this repository from the `main` branch. The connected GitHub tooling did not expose repository-creation or Pages-settings APIs, so the public repository `CS50_Assignments` is being used as the deployment target.
+GitHub Pages can publish this repository from the `main` branch. The connected GitHub tooling did not expose repository-creation or Pages-settings APIs, so the public repository `Immanuel23rd.github.io` is being used as the deployment target.
